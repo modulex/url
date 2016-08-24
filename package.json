@@ -1,11 +1,12 @@
 {
   "name": "modulex-url",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "yiminghe <yiminghe@gmail.com>",
   "engines": {
-    "node": "~0.10"
+    "node": "4.x"
   },
   "license": "MIT",
+  "main": "lib/url",
   "repository": {
     "type": "git",
     "url": "http://github.com/modulex/path.git"
