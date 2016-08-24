@@ -1,11 +1,16 @@
 {
   "name": "modulex-url",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": "yiminghe <yiminghe@gmail.com>",
   "engines": {
     "node": "4.x"
   },
   "license": "MIT",
+  "files": [
+    "lib",
+    "build",
+    "meta"
+  ],
   "main": "lib/url",
   "repository": {
     "type": "git",
